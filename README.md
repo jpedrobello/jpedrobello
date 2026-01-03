@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou o João Pedro!
 
-📊 **Foco em dados**  
-💼 Atualmente estagiando com **análise e manipulação de dados**
----
+📊 Foco em dados  
+💼 Atualmente estagiando com análise e manipulação de dados
 
 ## 🛠 Ferramentas
 
